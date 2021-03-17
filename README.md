@@ -1,4 +1,4 @@
-# vuejs-test
+# Grid with pagination(test project). Vue, JS, Vuex, Axios.
 
 ## Project setup
 ```
