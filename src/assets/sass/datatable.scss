@@ -1,0 +1,28 @@
+.table {
+    border: 2px solid #b1b3b5;
+    border-collapse: collapse;
+    margin-bottom: 3%;
+}
+.table-th {
+    height: 2em;
+}
+.table-td {
+    height: 3em;
+}
+td, th{
+    border: 2px solid #b1b3b5;
+    vertical-align: middle;
+}
+.list {
+    list-style-type: none;
+    border: 2px solid #b1b3b5;
+    margin-top: 4%;
+    text-align: left;
+}
+.thead {
+    font-weight: bold;
+    margin: 3% 0% 0% -3%;
+}
+.tbody {
+    margin: 0% 0% 4% -3%;
+}
